@@ -1,2 +1,2 @@
 programa: grafo.c
-	gcc -ansi -std=c99 -Wall -g grafo.c -o programa
+	gcc -std=c99 -g grafo.c -o programa
